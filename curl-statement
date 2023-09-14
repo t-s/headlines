@@ -1,0 +1,9 @@
+wget https://chroniclingamerica.loc.gov/lccn/sn83045462/1923-09-14/ed-1/seq-1.jp2
+
+# sn83045462 is the LCCN of the D.C. Evening Star, available as digitalized until 1963
+# following URL segments indicate:
+# - date of publication
+# - edition number
+# - page nymber
+# - file extension is for JPEG2000
+# switch to a new LCCN if this script is run in 2063 A.D.
